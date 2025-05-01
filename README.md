@@ -24,4 +24,6 @@ API integration (sending requests, processing responses).
 Data parsing (working with JSON).
 User experience design (clear prompts and output).
 
+OUTPUT:
+
 ![Image](https://github.com/user-attachments/assets/b24c69e4-ffa9-45b4-a1e3-83ff91643552)
